@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <inttypes.h>
+#include <stdint.h>
 #include <assert.h>
-
 
 uint32_t generate_number();
 
